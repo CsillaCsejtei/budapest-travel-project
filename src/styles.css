@@ -35,6 +35,10 @@ body{
   grid-template-columns: 1fr 2fr 2fr;
 }
 
+.grid-4-columns{
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
 .embed{
   width: 100%;
   aspect-ratio: 1 /1;
